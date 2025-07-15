@@ -7,7 +7,7 @@
   position: relative;
   display: flex;
   align-items: center;
-  padding: 10px;
+  padding: 12px;
   margin-bottom: 13px;
   margin-top: 15px;
 }
@@ -362,7 +362,7 @@ a:active {
   height: 350px;
   background-color: black;
 }
-.end{
+.end {
   display: flex;
   justify-content: center;
 }
@@ -375,12 +375,12 @@ a:active {
   line-height: 40px;
   padding-top: 80px;
 }
-.footer img{
+.footer img {
   width: 100px;
   height: 100px;
-    margin-top: 50px;
+  margin-top: 50px;
 }
-.over{
+.over {
   display: flex;
   justify-content: center;
   gap: 90px;
